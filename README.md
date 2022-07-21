@@ -19,4 +19,4 @@
 ---
 ### Code Sample
 #### TypeScript Todo List
-* [RESTFul API with NodeJS, Express, MongoDB and TypeScript](https://github.com/ssucode/typescript-todolist-backend)
+* <a href="https://github.com/ssucode/typescript-todolist-backend" target="_blank">RESTFul API with NodeJS, Express, MongoDB and TypeScript</a>
