@@ -17,6 +17,11 @@
 * [프로그래밍 표기법(Programming Naming Rules)](./Etc/namingRules.md)
 
 ---
+### Code Challenge
+####Javascript
+* [문자열을 숫자로 변환(parsint 사용하지 않음)](./CodeChallenge/Javascript/returnStringAsNumber.md)
+
+---
 ### Code Sample
 #### TypeScript Todo List
 * <a href="https://github.com/ssucode/typescript-todolist-backend" target="_blank">RESTFul API with NodeJS, Express, MongoDB and TypeScript</a>
