@@ -25,3 +25,7 @@
 ### Code Sample
 #### TypeScript Todo List
 * <a href="https://github.com/ssucode/typescript-todolist-backend" target="_blank">RESTFul API with NodeJS, Express, MongoDB and TypeScript</a>
+
+---
+### Certificate
+#### [AWS Cloud Paractitioner](./certificate/AwsCloudParactitioner.md)
