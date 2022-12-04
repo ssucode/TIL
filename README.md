@@ -28,4 +28,5 @@
 
 ---
 ### Certificate
-#### [AWS Cloud Paractitioner](./certificate/AwsCloudParactitioner.md)
+#### AWS
+* [AWS Cloud Paractitioner](./certificate/AwsCloudParactitioner.md)
