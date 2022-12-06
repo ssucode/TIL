@@ -15,6 +15,8 @@
 * 마크다운 Online Viewer - [dillinger.io](https://dillinger.io)
 #### Rules
 * [프로그래밍 표기법(Programming Naming Rules)](./Etc/namingRules.md)
+#### Clean Code
+* [리팩토링, Refactoring 이란?](./Etc/cleanCode/refactoring.md)
 
 ---
 ### Code Challenge
