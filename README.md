@@ -22,6 +22,7 @@
 ### Code Challenge
 #### Javascript
 * [문자열을 숫자로 변환(parsint 사용하지 않음)](./CodeChallenge/Javascript/returnStringAsNumber.md)
+* [Happy Number](./CodeChallenge/Javascript/happyNumber.md)
 
 ---
 ### Code Sample
