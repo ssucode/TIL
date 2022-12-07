@@ -11,3 +11,4 @@
 #### 4. 더미문제
 - [Free & Accurate Amazon AWS Certified Cloud Practitioner Practice Questions - ExamTopics](https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/)
 - [Free AWS Certified Cloud Practitioner braindumps download (AWS Certified Cloud Practitioner exam dumps Free)](https://free-braindumps.com/amazon/free-aws-certified-cloud-practitioner-braindumps.html?p=1)
+- [AWS CLF 덤프](https://m.blog.naver.com/PostList.naver?blogId=gam_jaong&categoryName=AWS%20CLF%20%EB%8D%A4%ED%94%84&categoryNo=17&logCode=0)
