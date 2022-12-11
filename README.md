@@ -23,7 +23,7 @@
 #### Javascript
 * [문자열을 숫자로 변환(parsint 사용하지 않음)](./CodeChallenge/Javascript/returnStringAsNumber.md)
 * [Happy Number](./CodeChallenge/Javascript/happyNumber.md)
-
+* [피보나치 수](./CodeChallenge/Javascript/fibonacci.md)
 ---
 ### Code Sample
 #### TypeScript Todo List
