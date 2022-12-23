@@ -14,8 +14,8 @@
     - [SQL Injection 방지](./Programing/PHP/ciSqlinjectionPrevention.md)
 
 ### Git
-* [Git Config](./Git/CommonGitCommandLines.md)
-* [Common Git Command Lines](./Git/gitConfig.md)
+* [Git Config](./Git/gitConfig.md)
+* [Common Git Command Lines](./Git/CommonGitCommandLines.md)
 ### Etc
 #### Markdown
 * 마크다운 가이드 - [Markdown Guide](https://www.markdownguide.org)
