@@ -1,5 +1,8 @@
 Common git command lines
 Just taking a break from my little series, today I gather all popular and essential git command lines for myself (and you too if you’re interested!).
+```
+git init: Initializing the git repository. A command that allows git to manage folders, entered only once initially.
+```
 1. Power of the trinity
 What trinity, you may ask? For me, it is
 ```
