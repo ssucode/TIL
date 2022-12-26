@@ -38,8 +38,8 @@
 ---
 ### Code Sample
 #### TypeScript
-* <a href="https://github.com/ssucode/typescript-todolist-backend" target="_blank">Todo List - RESTFul API with NodeJS, Express, MongoDB and TypeScript</a>
-* <a href="https://github.com/ssucode/fmk-sde-be-assignment" target="_blank">FMK SDE BE Assignment - AWS CDK를 기반으로 이벤트 페이지를 통해 전달되는 고객 정보를 수집할 백엔드 API 서비스를 구현</a>
+* <a href="https://github.com/ssucode/typescript-todolist-backend" target="_blank">Todo List(RESTFul API with NodeJS, Express, MongoDB and TypeScript)</a>
+* <a href="https://github.com/ssucode/fmk-sde-be-assignment" target="_blank">FMK SDE BE Assignment(AWS CDK를 기반으로 이벤트 페이지를 통해 전달되는 고객 정보를 수집할 백엔드 API 서비스를 구현)</a>
 
 ---
 ### Certificate
