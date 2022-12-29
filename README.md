@@ -36,15 +36,16 @@
 * [문자열을 숫자로 변환(parsint 사용하지 않음)](./CodeChallenge/Javascript/returnStringAsNumber.md)
 * [Happy Number](./CodeChallenge/Javascript/happyNumber.md)
 * [피보나치 수](./CodeChallenge/Javascript/fibonacci.md)
+
 ---
 ### Code Sample
 #### TypeScript
-* <a href="https://github.com/ssucode/typescript-todolist-backend" target="_blank" />Todo List(RESTFul API with NodeJS, Express, MongoDB and TypeScript)</a>
-* <a href="https://github.com/ssucode/fmk-sde-be-assignment" target="_blank" />FMK SDE BE Assignment(AWS CDK를 기반으로 이벤트 페이지를 통해 전달되는 고객 정보를 수집할 백엔드 API 서비스를 구현)</a>
+* <a href="https://github.com/ssucode/typescript-todolist-backend" target="_blank">Todo List(RESTFul API with NodeJS, Express, MongoDB and TypeScript)</a>
+* <a href="https://github.com/ssucode/fmk-sde-be-assignment" target="_blank">FMK SDE BE Assignment(AWS CDK를 기반으로 이벤트 페이지를 통해 전달되는 고객 정보를 수집할 백엔드 API 서비스를 구현)</a>
 #### Python
-* <a href="https://github.com/ssucode/kaptmap" target="_blank" />공동주택정보를 지도에 보여지도록 구현(AWS 환경)</a>
+* <a href="https://github.com/ssucode/kaptmap" target="_blank">공동주택정보를 지도에 보여지도록 구현(AWS 환경)</a>
 #### Kotlin
-* <a href="https://github.com/ssucode/todolist-backend" target="_blank" />Todo List Backend Api</a>
+* <a href="https://github.com/ssucode/todolist-backend" target="_blank">Todo List Backend Api</a>
 
 ---
 ### Certificate
