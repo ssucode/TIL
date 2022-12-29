@@ -14,19 +14,24 @@
     - [SQL Injection 방지](./Programing/PHP/ciSqlinjectionPrevention.md)
     - [Git : ci-phpunit-test for CodeIgniter 3.x](https://github.com/kenjis/ci-phpunit-test)
 
+---
 ### Git
 * [Git Config](./Git/gitConfig.md)
 * [Common Git Command Lines](./Git/CommonGitCommandLines.md)
+
+---
 ### Etc
 #### Markdown
 * 마크다운 가이드 - [Markdown Guide](https://www.markdownguide.org)
 * 마크다운 Online Viewer - [dillinger.io](https://dillinger.io)
 #### Rules
 * [프로그래밍 표기법(Programming Naming Rules)](./Etc/namingRules.md)
+
 #### Clean Code
 * [리팩토링, Refactoring 이란?](./Etc/cleanCode/refactoring.md)
 * [테스트란?](./Etc/cleanCode/test.md)
 * [테스트 주도 개발(Test-Driven-Development)이란?](./Etc/cleanCode/tdd.md)
+
 #### Tools
 * 외부 망에서 Localhost를 접근 - [ngrok](./Etc/Tools/ngrok.md)
 
@@ -42,8 +47,10 @@
 #### TypeScript
 * <a href="https://github.com/ssucode/typescript-todolist-backend" target="_blank">Todo List(RESTFul API with NodeJS, Express, MongoDB and TypeScript)</a>
 * <a href="https://github.com/ssucode/fmk-sde-be-assignment" target="_blank">FMK SDE BE Assignment(AWS CDK를 기반으로 이벤트 페이지를 통해 전달되는 고객 정보를 수집할 백엔드 API 서비스를 구현)</a>
+
 #### Python
 * <a href="https://github.com/ssucode/kaptmap" target="_blank">공동주택정보를 지도에 보여지도록 구현(AWS 환경)</a>
+
 #### Kotlin
 * <a href="https://github.com/ssucode/todolist-backend" target="_blank">Todo List Backend Api</a>
 
