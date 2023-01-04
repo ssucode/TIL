@@ -31,3 +31,9 @@ git merge [branch name]: merge the branch to another. (could be another branch o
 git pull [Repository Link]: fetches and merges changes to your local working repository from the remote server.
 git clone [Repository Link]: clone an existing repository to your laptop/ computer from the remote server.
 ```
+
+### 5. remove Repository remote or add Repository remote
+```
+git remote remove origin: 기존 리포지토리 remote 제거
+git remote add origin [Repository Link]: 새 리포지토리 remote 추가
+```
