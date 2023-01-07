@@ -1,6 +1,6 @@
-# 스프링부트의 디렉토리(패키지) 구조와 역할
+# 스프링부트 디렉토리 구조와 역할
 ## 구조
-Spring boot는 목적에 따라 패키지를 따로 생성해서 프로젝트를 관리하는데 크게 나누어 보자면 다음과 같다.
+Spring Boot는 목적에 따라 패키지를 따로 생성해서 프로젝트를 관리합니다. 
 * Controller
 * DTO
 * Service
@@ -10,9 +10,8 @@ Spring boot는 목적에 따라 패키지를 따로 생성해서 프로젝트를
 ## 역할
 ### Model(또는 Domain 또는 Post … )
 * 테이블의 필드가 DB에서 매핑하는 역할을 담당합니다.
-* DTO가 들어있다.
-* Entity Class 등
-* 어노테이션은 Entity, Id, Column, Builder 등이 잇습니다.
+* DTO가 들어있습니다.
+* 어노테이션은 Entity, Id, Column, Builder 등이 있습니다.
 ```Java
 ...
 @Entity
@@ -27,6 +26,12 @@ public clsss Users {
   
   @Column
   prviate String password;
+  
+  @Builder
+  public Users(String name, String password){
+    this.name = name;
+    this.password = password;
+  }
 }
 ...
 ```
@@ -36,8 +41,7 @@ public clsss Users {
 * 데이터베이스가 연결되는 레파지토리(DAO) 입니다.
 * JpaRepository interface를 상속받아서 관리하고자 하는 클래스, ID 필드 타입을 `JpaRepository<Entity Class, PK type>` 같이 넣어주면 자동으로 DB와 CRUD 연결을 할 수 있는 메소드를 생성해 줍니다.
 ```Java
-public interface MemberRepository extends JpaRepository<Member, Long> {
-...
+public interface UserRepository extends JpaRepository<Users, Long> {
 }
 ```
 ### DTO
@@ -70,7 +74,6 @@ public class UserService {
 ### Controller(또는 web)
 * Http 요청과 응답을 위한 클래스입니다.
 * @Controller 어노테이션을 통하여 bean에 등록되고 스프링에서 관리됩니다.
-
 ```Java
 @RequestController
 @RequestMapping("/")
