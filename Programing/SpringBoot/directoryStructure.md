@@ -5,7 +5,7 @@ Spring Boot는 목적에 따라 패키지를 따로 생성해서 프로젝트를
 * DTO
 * Service
 * Repository
-* Domain (Entity)
+* Model
 
 ## 역할
 ### Model(또는 Domain 또는 Post … )
