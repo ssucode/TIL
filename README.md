@@ -16,7 +16,7 @@
 
 #### JAVA
 * Spring Boot
-    - [스프링부트의 디렉토리(패키지) 구조와 역할](./Programing/SpringBoot/directoryStructure.md)
+    - [디렉토리 구조와 역할](./Programing/SpringBoot/directoryStructure.md)
 
 ---
 ### Git
