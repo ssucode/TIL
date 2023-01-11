@@ -22,6 +22,7 @@
 ### Git
 * [Git Config](./Git/gitConfig.md)
 * [Common Git Command Lines](./Git/CommonGitCommandLines.md)
+* [pre-commit](./Git/preCommit.md)
 
 ---
 ### Etc
