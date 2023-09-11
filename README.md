@@ -16,8 +16,10 @@
 
 #### JAVA
 * Spring Boot
-    - [디렉토리 구조와 역할](./Programing/SpringBoot/directoryStructure.md)
-
+    - [디렉토리 구조와 역할](./Programing/JAVA/SpringBoot/directoryStructure.md)
+* JSTL
+    - [기본문법 - <c:if>, <c:when>, <c:foreach>, <c:set>, <c:remove>, <c:out> ](./Programing/JAVA/JSTL/basicGrammar1.md)
+    - [기본문법 - 비교연산자(eq, ne, empty, not empty)와 논리연산자(and, or, not) ](./Programing/JAVA/JSTL/basicGrammar2.md)
 ---
 ### DB
 #### MariaDB
